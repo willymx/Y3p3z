@@ -16,3 +16,4 @@ Thumbs.db
 
 # ─── XAMPP artefacts (por si acaso) ───────────
 xdebug.log
+.env
